@@ -57,7 +57,7 @@ Swagger UI: https://bwrrs9ey67.execute-api.eu-central-1.amazonaws.com/
 
 ### Examples:
 - In the image underneath you can see a first version of a dashboard page designed by Omnia.
-<img src="static/exampledash.jpg" alt="example dashboard" width="400"/>
+<img src="static/exampledash.JPG" alt="example dashboard" width="400"/>
 - https://spacewell.com/resources/blog/occupancy-monitoring-data-driven-workplace-optimization/
 - https://reelyactive.github.io/diy/kibana-occupancy-dashboard/
 ### Note:
