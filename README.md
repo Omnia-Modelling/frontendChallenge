@@ -41,7 +41,7 @@ Swagger UI: https://bwrrs9ey67.execute-api.eu-central-1.amazonaws.com/
 5. **Submission**:
    - Share your code via a link to your public repository (GitHub, GitLab, etc.).
    - Include any necessary instructions for running the project locally.
-   - Deadline for submission is Friday, 17th of May.
+   - Deadline for submission is Friday, 14th of May.
 
 ### Additional Information:
 - You are required to use React Next.js for building the dashboard.
