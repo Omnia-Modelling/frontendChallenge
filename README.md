@@ -60,5 +60,6 @@ Swagger UI: https://bwrrs9ey67.execute-api.eu-central-1.amazonaws.com/
 <img src="static/exampledash.JPG" alt="example dashboard" width="400"/>
 - https://spacewell.com/resources/blog/occupancy-monitoring-data-driven-workplace-optimization/
 - https://reelyactive.github.io/diy/kibana-occupancy-dashboard/
+
 ### Note:
 This assignment is designed to assess your frontend development skills, including data processing, UI/UX design, and data visualization. Take your time to build a quality solution that showcases your abilities. If you have any questions about the data or API, don't hesitate to ask.
